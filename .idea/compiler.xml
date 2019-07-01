@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zuul" />
+        <module name="client-service (2)" />
+        <module name="common" />
+        <module name="zipkin-server" />
+        <module name="auth" />
+        <module name="eureka" />
+        <module name="dashboard" />
+        <module name="account-service (2)" />
+        <module name="history-service" />
+        <module name="config-server" />
+        <module name="turbine-server" />
+        <module name="card-service" />
+        <module name="processing-service" />
+      </profile>
+      <profile name="Annotation profile for spring-cloud" enabled="true">
+        <sourceOutputDir name="../Eureka/ClientService/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../Eureka/ClientService/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="client-service (1)" />
+      </profile>
+      <profile name="Annotation profile for account-service (1)" enabled="true">
+        <sourceOutputDir name="../Eureka/AccountService/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../Eureka/AccountService/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="account-service (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="account-service (1)" target="1.6" />
+      <module name="account-service (2)" target="1.5" />
+      <module name="auth" target="1.6" />
+      <module name="card-service" target="1.6" />
+      <module name="client-service (1)" target="1.6" />
+      <module name="client-service (2)" target="1.5" />
+      <module name="common" target="1.6" />
+      <module name="config-server" target="1.6" />
+      <module name="dashboard" target="1.6" />
+      <module name="eureka" target="1.6" />
+      <module name="history-service" target="1.6" />
+      <module name="processing-service" target="1.6" />
+      <module name="spring-cloud" target="1.6" />
+      <module name="turbine-server" target="1.6" />
+      <module name="zipkin-server" target="1.6" />
+      <module name="zuul" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71c152d4-7ee8-4ce2-9c9b-5caede70a898" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_assistedinject_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_grapher_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_multibindings_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_193.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_governator_governator_1_12_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_governator_governator_api_1_12_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_governator_governator_core_1_12_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_55.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_55.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_25_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_11_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_11_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_2_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_archaius_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_archaius_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_server_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_12_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_10_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_2_0_JENKINS_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccountService/account-service (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccountService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccountService/src/main/java/com/luxoft/training/spring/cloud/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccountService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccountService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aggregator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aggregator/src/main/java/com/luxoft/training/spring/cloud/Aggregator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aggregator/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AuthService/auth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AuthService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AuthService/src/main/java/com/luxoft/training/spring/cloud/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AuthService/src/main/java/com/luxoft/training/spring/cloud/OAuth2Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AuthService/src/main/java/com/luxoft/training/spring/cloud/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AuthService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AuthService/src/main/resources/jwt.jks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CardService/card-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CardService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CardService/src/main/java/com/luxoft/training/spring/cloud/CardNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CardService/src/main/java/com/luxoft/training/spring/cloud/CardRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CardService/src/main/java/com/luxoft/training/spring/cloud/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CardService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_google_inject_extensions_guice_assistedinject_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_google_inject_extensions_guice_grapher_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_google_inject_extensions_guice_multibindings_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_google_inject_guice_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_h2database_h2_1_4_193.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_governator_governator_1_12_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_governator_governator_api_1_12_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_governator_governator_core_1_12_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__io_netty_netty_buffer_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__io_netty_netty_codec_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__io_netty_netty_codec_http_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__io_netty_netty_common_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__io_netty_netty_handler_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__io_netty_netty_transport_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__io_reactivex_rxjava_1_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__joda_time_joda_time_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_55.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_55.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_archaius_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_spring_aop_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_spring_beans_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_spring_context_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_spring_core_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_spring_expression_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_spring_orm_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_spring_tx_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_spring_web_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/client-service (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/client-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/src/main/java/com/luxoft/training/spring/cloud/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClientService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigServer/config-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigServer/src/main/java/com/luxoft/training/spring/cloud/ConfigServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConfigServer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/dashboard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/src/main/java/com/luxoft/training/spring/cloud/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dashboard/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_google_code_gson_gson_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_google_inject_extensions_guice_assistedinject_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_google_inject_extensions_guice_grapher_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_google_inject_extensions_guice_multibindings_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_google_inject_guice_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_h2database_h2_1_4_193.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_governator_governator_1_12_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_governator_governator_api_1_12_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_governator_governator_core_1_12_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__io_netty_netty_buffer_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__io_netty_netty_codec_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__io_netty_netty_codec_http_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__io_netty_netty_common_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__io_netty_netty_handler_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__io_netty_netty_transport_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__io_reactivex_rxjava_1_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__joda_time_joda_time_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_assertj_assertj_core_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_55.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_55.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_freemarker_freemarker_2_3_25_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_11_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_11_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_4_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_2_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_archaius_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_server_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_12_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_10_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_2_0_JENKINS_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_spring_aop_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_spring_beans_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_spring_context_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_spring_core_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_spring_expression_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_spring_orm_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_spring_test_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_spring_tx_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_spring_web_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/account-service (2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/account-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/src/main/java/com/luxoft/training/spring/cloud/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/target/classes/com/luxoft/training/spring/cloud/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/target/classes/com/luxoft/training/spring/cloud/AccountDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/target/classes/com/luxoft/training/spring/cloud/AccountEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/target/classes/com/luxoft/training/spring/cloud/AccountRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/target/classes/com/luxoft/training/spring/cloud/AccountRest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/AccountService/target/classes/com/luxoft/training/spring/cloud/AccountService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/CardService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/CardService/src/main/java/com/luxoft/training/spring/cloud/CardNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/CardService/src/main/java/com/luxoft/training/spring/cloud/CardRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/CardService/src/main/java/com/luxoft/training/spring/cloud/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/CardService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_google_inject_extensions_guice_assistedinject_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_google_inject_extensions_guice_grapher_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_google_inject_extensions_guice_multibindings_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_google_inject_guice_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_h2database_h2_1_4_193.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_governator_governator_1_12_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_governator_governator_api_1_12_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_governator_governator_core_1_12_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__io_netty_netty_buffer_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__io_netty_netty_codec_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__io_netty_netty_codec_http_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__io_netty_netty_common_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__io_netty_netty_handler_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__io_netty_netty_transport_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__io_reactivex_rxjava_1_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__joda_time_joda_time_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_55.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_55.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_archaius_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_spring_aop_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_spring_beans_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_spring_context_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_spring_core_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_spring_expression_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_spring_orm_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_spring_tx_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_spring_web_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/client-service (2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/client-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/src/main/java/com/luxoft/training/spring/cloud/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/target/classes/com/luxoft/training/spring/cloud/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/target/classes/com/luxoft/training/spring/cloud/ClientDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/target/classes/com/luxoft/training/spring/cloud/ClientEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/target/classes/com/luxoft/training/spring/cloud/ClientMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/target/classes/com/luxoft/training/spring/cloud/ClientRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/target/classes/com/luxoft/training/spring/cloud/ClientRest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ClientService/target/classes/com/luxoft/training/spring/cloud/ClientService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ProcessingService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ProcessingService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/ProcessingService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/eureka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/hs_err_pid5256.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/hs_err_pid6276.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/replay_pid6276.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/src/main/java/com/luxoft/training/spring/cloud/Eureka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/target/classes/META-INF/eureka.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/target/classes/com/luxoft/training/spring/cloud/Eureka.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/target/classes/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eureka/target/classes/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HistoryService/history-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HistoryService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HistoryService/src/main/java/com/luxoft/training/spring/cloud/HistoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HistoryService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProcessingService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProcessingService/processing-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProcessingService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProcessingService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Processor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Processor/src/main/java/com/luxoft/training/spring/cloud/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Processor/src/main/java/com/luxoft/training/spring/cloud/ProcessorChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Processor/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Publisher/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Publisher/src/main/java/com/luxoft/training/spring/cloud/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Publisher/src/main/java/com/luxoft/training/spring/cloud/TestChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Publisher/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/AccountService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/AccountService/src/main/java/com/luxoft/training/spring/cloud/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/AccountService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/AccountService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/CardService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/CardService/src/main/java/com/luxoft/training/spring/cloud/CardNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/CardService/src/main/java/com/luxoft/training/spring/cloud/CardRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/CardService/src/main/java/com/luxoft/training/spring/cloud/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/CardService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ClientService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ClientService/src/main/java/com/luxoft/training/spring/cloud/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ClientService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ClientService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/Eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/Eureka/src/main/java/com/luxoft/training/spring/cloud/Eureka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/Eureka/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ProcessingService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ProcessingService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/ProcessingService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/AccountService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/AccountService/src/main/java/com/luxoft/training/spring/cloud/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/AccountService/src/main/java/com/luxoft/training/spring/cloud/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/AccountService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/AuthService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/AuthService/src/main/java/com/luxoft/training/spring/cloud/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/AuthService/src/main/java/com/luxoft/training/spring/cloud/OAuth2Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/AuthService/src/main/java/com/luxoft/training/spring/cloud/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/AuthService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/AuthService/src/main/resources/jwt.jks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/CardService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/CardService/src/main/java/com/luxoft/training/spring/cloud/CardNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/CardService/src/main/java/com/luxoft/training/spring/cloud/CardRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/CardService/src/main/java/com/luxoft/training/spring/cloud/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/CardService/src/main/java/com/luxoft/training/spring/cloud/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/CardService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ClientService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ClientService/src/main/java/com/luxoft/training/spring/cloud/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ClientService/src/main/java/com/luxoft/training/spring/cloud/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ClientService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/Common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/Common/src/main/java/com/luxoft/training/spring/cloud/AbstractFinancialEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/Common/src/main/java/com/luxoft/training/spring/cloud/FundEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/Common/src/main/java/com/luxoft/training/spring/cloud/RemoteEventPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/Common/src/main/java/com/luxoft/training/spring/cloud/WithdrawEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ConfigServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ConfigServer/src/main/java/com/luxoft/training/spring/cloud/ConfigServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ConfigServer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/Dashboard/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/Dashboard/src/main/java/com/luxoft/training/spring/cloud/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/Dashboard/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/Eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/Eureka/src/main/java/com/luxoft/training/spring/cloud/Eureka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/Eureka/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/HistoryService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/HistoryService/src/main/java/com/luxoft/training/spring/cloud/HistoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/HistoryService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ProcessingService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ProcessingService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/TurbineServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/TurbineServer/src/main/java/com/luxoft/training/spring/cloud/TurbineServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/TurbineServer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ZipkinServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ZipkinServer/src/main/java/com/luxoft/training/spring/cloud/ZipkinServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/ZipkinServer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/Zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/Zuul/src/main/java/com/luxoft/training/spring/cloud/Zuul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/Zuul/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 11/ConfigServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 11/ConfigServer/src/main/java/com/luxoft/training/spring/cloud/ConfigServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 11/ConfigServer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 11/Publisher/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 11/Publisher/src/main/java/com/luxoft/training/spring/cloud/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 11/Publisher/src/main/java/com/luxoft/training/spring/cloud/TestChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 11/Publisher/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 11/Subscriber/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 11/Subscriber/src/main/java/com/luxoft/training/spring/cloud/Subscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 11/Subscriber/src/main/java/com/luxoft/training/spring/cloud/TestChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 11/Subscriber/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 11/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/Aggregator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/Aggregator/src/main/java/com/luxoft/training/spring/cloud/Aggregator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/Aggregator/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/Aggregator/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/ConfigServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/ConfigServer/src/main/java/com/luxoft/training/spring/cloud/ConfigServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/ConfigServer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/Processor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/Processor/src/main/java/com/luxoft/training/spring/cloud/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/Processor/src/main/java/com/luxoft/training/spring/cloud/ProcessorChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/Processor/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/Publisher/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/Publisher/src/main/java/com/luxoft/training/spring/cloud/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/Publisher/src/main/java/com/luxoft/training/spring/cloud/PublisherChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/Publisher/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/Subscriber/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/Subscriber/src/main/java/com/luxoft/training/spring/cloud/Subscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/Subscriber/src/main/java/com/luxoft/training/spring/cloud/SubscriberChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/Subscriber/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/WordNumSplitter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/WordNumSplitter/src/main/java/com/luxoft/training/spring/cloud/WordNumSplitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/WordNumSplitter/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 12/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/AccountService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/AccountService/src/main/java/com/luxoft/training/spring/cloud/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/AccountService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/AccountService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/CardService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/CardService/src/main/java/com/luxoft/training/spring/cloud/CardNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/CardService/src/main/java/com/luxoft/training/spring/cloud/CardRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/CardService/src/main/java/com/luxoft/training/spring/cloud/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/CardService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ClientService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ClientService/src/main/java/com/luxoft/training/spring/cloud/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ClientService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ClientService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/Eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/Eureka/src/main/java/com/luxoft/training/spring/cloud/Eureka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/Eureka/src/main/resources/bootstrap-8701.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/Eureka/src/main/resources/bootstrap-8702.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ProcessingService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ProcessingService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/ProcessingService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/AccountService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/AccountService/src/main/java/com/luxoft/training/spring/cloud/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/AccountService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/AccountService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/CardService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/CardService/src/main/java/com/luxoft/training/spring/cloud/CardNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/CardService/src/main/java/com/luxoft/training/spring/cloud/CardRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/CardService/src/main/java/com/luxoft/training/spring/cloud/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/CardService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ClientService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ClientService/src/main/java/com/luxoft/training/spring/cloud/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ClientService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ClientService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/Eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/Eureka/src/main/java/com/luxoft/training/spring/cloud/Eureka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/Eureka/src/main/resources/bootstrap-8701.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/Eureka/src/main/resources/bootstrap-8702.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ProcessingService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ProcessingService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/ProcessingService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/Zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/Zuul/src/main/java/com/luxoft/training/spring/cloud/Zuul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/Zuul/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/AccountService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/AccountService/src/main/java/com/luxoft/training/spring/cloud/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/AccountService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/CardService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/CardService/src/main/java/com/luxoft/training/spring/cloud/CardNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/CardService/src/main/java/com/luxoft/training/spring/cloud/CardRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/CardService/src/main/java/com/luxoft/training/spring/cloud/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/CardService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ClientService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ClientService/src/main/java/com/luxoft/training/spring/cloud/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ClientService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ConfigServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ConfigServer/src/main/java/com/luxoft/training/spring/cloud/ConfigServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ConfigServer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/Eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/Eureka/src/main/java/com/luxoft/training/spring/cloud/Eureka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/Eureka/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ProcessingService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/ProcessingService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/Zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/Zuul/src/main/java/com/luxoft/training/spring/cloud/Zuul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/Zuul/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/AccountService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/AccountService/src/main/java/com/luxoft/training/spring/cloud/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/AccountService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/CardService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/CardService/src/main/java/com/luxoft/training/spring/cloud/CardNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/CardService/src/main/java/com/luxoft/training/spring/cloud/CardRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/CardService/src/main/java/com/luxoft/training/spring/cloud/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/CardService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ClientService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ClientService/src/main/java/com/luxoft/training/spring/cloud/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ClientService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ConfigServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ConfigServer/src/main/java/com/luxoft/training/spring/cloud/ConfigServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ConfigServer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/Dashboard/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/Dashboard/src/main/java/com/luxoft/training/spring/cloud/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/Dashboard/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/Eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/Eureka/src/main/java/com/luxoft/training/spring/cloud/Eureka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/Eureka/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ProcessingService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/ProcessingService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/Zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/Zuul/src/main/java/com/luxoft/training/spring/cloud/Zuul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/Zuul/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/AccountService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/AccountService/src/main/java/com/luxoft/training/spring/cloud/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/AccountService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/CardService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/CardService/src/main/java/com/luxoft/training/spring/cloud/CardNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/CardService/src/main/java/com/luxoft/training/spring/cloud/CardRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/CardService/src/main/java/com/luxoft/training/spring/cloud/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/CardService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ClientService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ClientService/src/main/java/com/luxoft/training/spring/cloud/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ClientService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ConfigServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ConfigServer/src/main/java/com/luxoft/training/spring/cloud/ConfigServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ConfigServer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/Dashboard/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/Dashboard/src/main/java/com/luxoft/training/spring/cloud/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/Dashboard/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/Eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/Eureka/src/main/java/com/luxoft/training/spring/cloud/Eureka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/Eureka/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ProcessingService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/ProcessingService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/Zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/Zuul/src/main/java/com/luxoft/training/spring/cloud/Zuul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/Zuul/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/AccountService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/AccountService/src/main/java/com/luxoft/training/spring/cloud/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/AccountService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/CardService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/CardService/src/main/java/com/luxoft/training/spring/cloud/CardNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/CardService/src/main/java/com/luxoft/training/spring/cloud/CardRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/CardService/src/main/java/com/luxoft/training/spring/cloud/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/CardService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ClientService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ClientService/src/main/java/com/luxoft/training/spring/cloud/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ClientService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ConfigServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ConfigServer/src/main/java/com/luxoft/training/spring/cloud/ConfigServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ConfigServer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/Dashboard/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/Dashboard/src/main/java/com/luxoft/training/spring/cloud/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/Dashboard/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/Eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/Eureka/src/main/java/com/luxoft/training/spring/cloud/Eureka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/Eureka/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ProcessingService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/ProcessingService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/TurbineServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/TurbineServer/src/main/java/com/luxoft/training/spring/cloud/TurbineServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/TurbineServer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/Zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/Zuul/src/main/java/com/luxoft/training/spring/cloud/Zuul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/Zuul/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 7/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/AccountService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/AccountService/src/main/java/com/luxoft/training/spring/cloud/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/AccountService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/CardService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/CardService/src/main/java/com/luxoft/training/spring/cloud/CardNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/CardService/src/main/java/com/luxoft/training/spring/cloud/CardRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/CardService/src/main/java/com/luxoft/training/spring/cloud/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/CardService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ClientService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ClientService/src/main/java/com/luxoft/training/spring/cloud/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ClientService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ConfigServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ConfigServer/src/main/java/com/luxoft/training/spring/cloud/ConfigServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ConfigServer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/Dashboard/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/Dashboard/src/main/java/com/luxoft/training/spring/cloud/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/Dashboard/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/Eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/Eureka/src/main/java/com/luxoft/training/spring/cloud/Eureka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/Eureka/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ProcessingService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ProcessingService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/TurbineServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/TurbineServer/src/main/java/com/luxoft/training/spring/cloud/TurbineServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/TurbineServer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ZipkinServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ZipkinServer/src/main/java/com/luxoft/training/spring/cloud/ZipkinServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/ZipkinServer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/Zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/Zuul/src/main/java/com/luxoft/training/spring/cloud/Zuul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/Zuul/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 8/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/AccountService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/AccountService/src/main/java/com/luxoft/training/spring/cloud/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/AccountService/src/main/java/com/luxoft/training/spring/cloud/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/AccountService/src/main/java/com/luxoft/training/spring/cloud/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/AccountService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/AuthService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/AuthService/src/main/java/com/luxoft/training/spring/cloud/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/AuthService/src/main/java/com/luxoft/training/spring/cloud/OAuth2Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/AuthService/src/main/java/com/luxoft/training/spring/cloud/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/AuthService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/AuthService/src/main/resources/jwt.jks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/CardService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/CardService/src/main/java/com/luxoft/training/spring/cloud/CardNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/CardService/src/main/java/com/luxoft/training/spring/cloud/CardRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/CardService/src/main/java/com/luxoft/training/spring/cloud/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/CardService/src/main/java/com/luxoft/training/spring/cloud/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/CardService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ClientService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ClientService/src/main/java/com/luxoft/training/spring/cloud/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ClientService/src/main/java/com/luxoft/training/spring/cloud/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ClientService/src/main/java/com/luxoft/training/spring/cloud/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ClientService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ConfigServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ConfigServer/src/main/java/com/luxoft/training/spring/cloud/ConfigServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ConfigServer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/Dashboard/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/Dashboard/src/main/java/com/luxoft/training/spring/cloud/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/Dashboard/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/Eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/Eureka/src/main/java/com/luxoft/training/spring/cloud/Eureka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/Eureka/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ProcessingService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/AccountServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/CardServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ProcessingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ProcessingService/src/main/java/com/luxoft/training/spring/cloud/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ProcessingService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/TurbineServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/TurbineServer/src/main/java/com/luxoft/training/spring/cloud/TurbineServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/TurbineServer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ZipkinServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ZipkinServer/src/main/java/com/luxoft/training/spring/cloud/ZipkinServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/ZipkinServer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/Zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/Zuul/src/main/java/com/luxoft/training/spring/cloud/Zuul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/Zuul/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/Lab 9/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/config-repo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/config-repo/Aggregator.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/config-repo/HistoryService.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/config-repo/Processor-8004.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/config-repo/Processor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/config-repo/Publisher.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/config-repo/Subscriber.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/config-repo/WordNumSplitter-8006.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/config-repo/WordNumSplitter.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Cloud Lab Guide - Copy.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Cloud Lab Guide.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subscriber/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subscriber/src/main/java/com/luxoft/training/spring/cloud/Subscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subscriber/src/main/java/com/luxoft/training/spring/cloud/TestChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subscriber/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TurbineServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TurbineServer/src/main/java/com/luxoft/training/spring/cloud/TurbineServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TurbineServer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TurbineServer/turbine-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZipkinServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZipkinServer/src/main/java/com/luxoft/training/spring/cloud/ZipkinServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZipkinServer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZipkinServer/zipkin-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zuul/src/main/java/com/luxoft/training/spring/cloud/Zuul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zuul/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zuul/zuul.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solutions/config-repo/AccountService.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/config-repo/AccountService.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solutions/config-repo/CardService.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/config-repo/CardService.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solutions/config-repo/ClientService.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/config-repo/ClientService.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solutions/config-repo/Dashboard.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/config-repo/Dashboard.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solutions/config-repo/ProcessingService-8805.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/config-repo/ProcessingService-8805.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solutions/config-repo/ProcessingService.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/config-repo/ProcessingService.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solutions/config-repo/Zuul.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/config-repo/Zuul.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solutions/config-repo/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/config-repo/application.yml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/CardService/target/" />
+    <ignored path="$PROJECT_DIR$/Zuul/target/" />
+    <ignored path="$PROJECT_DIR$/Eureka/AccountService/target/" />
+    <ignored path="$PROJECT_DIR$/ProcessingService/target/" />
+    <ignored path="$PROJECT_DIR$/ZipkinServer/target/" />
+    <ignored path="$PROJECT_DIR$/HistoryService/target/" />
+    <ignored path="$PROJECT_DIR$/AuthService/target/" />
+    <ignored path="$PROJECT_DIR$/Eureka/ClientService/target/" />
+    <ignored path="$PROJECT_DIR$/Dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/Eureka/target/" />
+    <ignored path="$PROJECT_DIR$/ConfigServer/target/" />
+    <ignored path="$PROJECT_DIR$/Common/target/" />
+    <ignored path="$PROJECT_DIR$/TurbineServer/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Solutions/config-repo" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="167" />
+    <option name="y" value="-13" />
+    <option name="width" value="1628" />
+    <option name="height" value="922" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Labs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/presentations" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71c152d4-7ee8-4ce2-9c9b-5caede70a898" name="Default Changelist" comment="" />
+      <created>1562014563961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562014563961</updated>
+      <workItem from="1562014565505" duration="504000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="504000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" visible="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TunnelliJ" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="TCPMON" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
